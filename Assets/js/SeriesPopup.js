@@ -133,76 +133,76 @@ function popupBackground(popup)
 
     switch(popup) {
 
-    case "TFATWS" : background = "/Assets/img/MarvelSeries/TFATWS.jpg";
+    case "TFATWS" : background = "//Assets/img/MarvelSeries/TFATWS.jpg";
     break;
     
-    case "wandavision" : background = "/Assets/img/MarvelSeries/WandaVision.jpeg";
+    case "wandavision" : background = "//Assets/img/MarvelSeries/WandaVision.jpeg";
     break;
     
-    case "loki" : background = "/Assets/img/MarvelSeries/Loki_\(TV_series\)_logo.png";
+    case "loki" : background = "//Assets/img/MarvelSeries/Loki_\(TV_series\)_logo.png";
     break;
     
-    case "whatif" : background = "/Assets/img/MarvelSeries/whatif.jpg";
+    case "whatif" : background = "//Assets/img/MarvelSeries/whatif.jpg";
     break;
     
-    case "hawkeye" : background = "/Assets/img/MarvelSeries/marvel-hawkeye-logo.jpg";
+    case "hawkeye" : background = "//Assets/img/MarvelSeries/marvel-hawkeye-logo.jpg";
     break;
     
-    case "msmarvel" : background = "/Assets/img/MarvelSeries/marvel-ms-marvel-logo.png";
+    case "msmarvel" : background = "//Assets/img/MarvelSeries/marvel-ms-marvel-logo.png";
     break;
     
-    case "moonknight" : background = "/Assets/img/MarvelSeries/marvel-moon-knight-logo.jpg";
+    case "moonknight" : background = "//Assets/img/MarvelSeries/marvel-moon-knight-logo.jpg";
     break;
     
-    case "shehulk" : background = "/Assets/img/MarvelSeries/marvel-she-hulk.jpg";
+    case "shehulk" : background = "//Assets/img/MarvelSeries/marvel-she-hulk.jpg";
     break;
     
-    case "secretinvasion" : background = "/Assets/img/MarvelSeries/secret-invasion-nick-fury-social.jpg";
+    case "secretinvasion" : background = "//Assets/img/MarvelSeries/secret-invasion-nick-fury-social.jpg";
     break;
     
-    case "ironheart" : background = "/Assets/img/MarvelSeries/marvel-ironheart.jpg";
+    case "ironheart" : background = "//Assets/img/MarvelSeries/marvel-ironheart.jpg";
     break;
     
-    case "armorwars" : background = "/Assets/img/MarvelSeries/marvel-war-machine-rhodes-cheadle-social.jpg";
+    case "armorwars" : background = "//Assets/img/MarvelSeries/marvel-war-machine-rhodes-cheadle-social.jpg";
     break;
     
-    case "iamgroot" : background = "/Assets/img/MarvelSeries/i-am-groot-series-logo-disney-plus.jpg";
+    case "iamgroot" : background = "//Assets/img/MarvelSeries/i-am-groot-series-logo-disney-plus.jpg";
     break;
     
-    case "agentsofshield" : background = "/Assets/img/MarvelSeries/Agents_of_SHIELD.jpg";
+    case "agentsofshield" : background = "//Assets/img/MarvelSeries/Agents_of_SHIELD.jpg";
     break;
     
-    case "agentcarter" : background = "/Assets/img/MarvelSeries/agentcarter.jpg";
+    case "agentcarter" : background = "//Assets/img/MarvelSeries/agentcarter.jpg";
     break;
     
-    case "inhumans" : background = "/Assets/img/MarvelSeries/inhumans-1018583-1280x0.jpg";
+    case "inhumans" : background = "//Assets/img/MarvelSeries/inhumans-1018583-1280x0.jpg";
     break;
     
-    case "daredevil" : background = "/Assets/img/MarvelSeries/daredevil-netflix-190285.jpg";
+    case "daredevil" : background = "//Assets/img/MarvelSeries/daredevil-netflix-190285.jpg";
     break;
     
-    case "jessicajones" : background = "/Assets/img/MarvelSeries/Marvels-Jessica-Jones.jpg";
+    case "jessicajones" : background = "//Assets/img/MarvelSeries/Marvels-Jessica-Jones.jpg";
     break;
     
-    case "lukecage" : background = "/Assets/img/MarvelSeries/luke-cage.png";
+    case "lukecage" : background = "//Assets/img/MarvelSeries/luke-cage.png";
     break;
     
-    case "ironfist" : background = "/Assets/img/MarvelSeries/Netflix-iron-fist.jpg";
+    case "ironfist" : background = "//Assets/img/MarvelSeries/Netflix-iron-fist.jpg";
     break;
     
-    case "defenders" : background = "/Assets/img/MarvelSeries/defenders.jpg";
+    case "defenders" : background = "//Assets/img/MarvelSeries/defenders.jpg";
     break;
     
-    case "punisher" : background = "/Assets/img/MarvelSeries/punisher.jpg";
+    case "punisher" : background = "//Assets/img/MarvelSeries/punisher.jpg";
     break;
     
-    case "runaways" : background = "/Assets/img/MarvelSeries/runaways.jpg";
+    case "runaways" : background = "//Assets/img/MarvelSeries/runaways.jpg";
     break;
     
-    case "cloakanddagger" : background = "/Assets/img/MarvelSeries/cloak-and-dagger-season-1-netflix.png";
+    case "cloakanddagger" : background = "//Assets/img/MarvelSeries/cloak-and-dagger-season-1-netflix.png";
     break;
     
-    case "helstrom" : background = "/Assets/img/MarvelSeries/helstrom-header.jpg";
+    case "helstrom" : background = "//Assets/img/MarvelSeries/helstrom-header.jpg";
     break;    
     
     }

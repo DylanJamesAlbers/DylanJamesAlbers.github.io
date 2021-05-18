@@ -3,7 +3,7 @@ setInterval(showImage, 5000);
 
 function showImage() {
    var slideNumber = randNumber(1, 22);
-   document.getElementById("slide").src = "/Assets/img/indexSlideShow/slide" + slideNumber + ".jpg";
+   document.getElementById("slide").src = "//Assets/img/indexSlideShow/slide" + slideNumber + ".jpg";
    document.getElementById("slidecaption").textcontent = getCaption(slideNumber);
 }
 

@@ -58,7 +58,7 @@
 
           if(numCorrect == 10)
           {
-              var audio = new Audio('/Assets/audio/perfectQuizScore.mp3');
+              var audio = new Audio('//Assets/audio/perfectQuizScore.mp3');
               audio.play();
           }
   
