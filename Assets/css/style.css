@@ -6097,7 +6097,7 @@ del {
 
 .center {
     display:block;
-    margin: 20px;
+    margin: auto;
   }
 
   .form-input {
@@ -6160,3 +6160,53 @@ del {
     color: white;
     padding: 5px;
 }
+
+#heroForm { 
+margin: auto;
+padding: 2%;
+width: 75%;
+}
+
+#name {
+    color: black;
+    font-size: 2em;
+}
+
+#email {
+    color: black;
+    font-size: 2em;
+}
+
+#superPower {
+    color: black;
+    font-size: 2em;
+}
+
+#whyYou {
+    color: black;
+    font-size: 2em;
+}
+
+#experience {
+    color: black;
+    font-size: 2em;
+}
+
+/**
+ * Fancy border
+ * ============
+*/
+
+.fancy-border {
+    border: 100px solid #B88846;
+    border-image: url("../img/logo/marvelBorder.png") 25;
+  }
+
+  .print {
+	display:none
+}
+ @media print {
+	.print {display:block}
+	.btn-print {display:none;}
+}
+
