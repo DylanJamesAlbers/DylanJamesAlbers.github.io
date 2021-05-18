@@ -1,0 +1,33 @@
+#seriesPopupWrapper1, #seriesPopupWrapper2, #seriesPopupWrapper3 {    
+    display: none;
+    position: absolute;
+    top:20%;
+    left:0;
+    width:100%;
+    z-index:99;
+}
+
+#seriesPopup1, #seriesPopup2, #seriesPopup3 {
+    background-color: red;
+    display: block;
+    margin:auto;
+    padding:10px;
+    border: rgb(134, 40, 6) solid 4px;
+    border-radius: 15px;
+    box-shadow: 5px 10px 10px rgb(117, 57, 57);
+    z-index: 9;
+    width:96%;
+    text-align: center;
+}
+
+#contents1, #contents2, #contents3 {   
+    display:block; 
+    font-size: 2vh;
+    text-align: center;
+    color: white;
+    line-height: 1.2;
+}
+
+#snap1, #snap2, #snap3 {
+    background-color: blue;
+}
